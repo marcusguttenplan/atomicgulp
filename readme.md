@@ -1,6 +1,6 @@
 # ATOMICGULP
 #### Helper Aliases for Opening Projects and Running Build Tasks
-
+##### open projects in atom or sublime text and run tasks
 This is a set of easy bash aliases to prompt for a directory to `cd` into, open the project in a text editor, and run a typical JS build script. The build scripts here are for `gulp`, `grunt`, `npm`, and `node`. When running the alias targeting `npm` or `node`, you will also be prompted for the command (`start`, `dev`, etc) or app root (`server.js`, `app.js`, etc).
 
 Currently the aliases open Atom or Sublime Text, but feel free to adjust these to any other editor that you launch from the CLI! Aliases include:
