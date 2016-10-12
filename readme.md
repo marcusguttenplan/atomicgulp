@@ -113,3 +113,4 @@ function sublimenode(){
 
 * present interactive options to prompt for build script or editor?
 * execute command with default flags vs `read` prompts
+* fix node commands
