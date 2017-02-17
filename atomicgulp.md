@@ -14,7 +14,6 @@ Currently the aliases open Atom or Sublime Text, but feel free to adjust these t
 * sublimenpm
 * sublimenode
 
-
 #### Usage
 
 Add the aliases to your `.bashrc` or `.bash_profile`, and run `.source bash_profile` or `source .bashrc`. Now you're free to `atomicgulp` or `sublimegrunt` anywhere that works for you!
